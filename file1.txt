@@ -3,9 +3,6 @@ this is a secod line
 this a third line
 4th line something gere here
 this is an 5th line this file
-<<<<<<< HEAD
-=======
 there is a line sherre
 zxdeefd
 ergsrfg
->>>>>>> 8f64ce5adc548a5459dbea7d79afe60536b1756f
